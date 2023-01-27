@@ -3,14 +3,9 @@ title: "Variables Textuales: Tweets sobre la final de la Copa Mundial de la FIFA
 author: "Maribel Fraire"
 date: '2023-01-21'
 output: 
-  html_document:
-    highlight: tango
-    theme: paper
+  github_document:
     toc: true
-    toc_depth: 5
-    toc_float:
-      callapsed: false
-      smooth_scroll: true
+    toc_depth: 2
 ---
 
 
