@@ -28,7 +28,7 @@ En el presente estudio se analizan las expresiones de los usuarios de Twitter en
 
 En primer lugar se describe el proceso de selección del set de datos, luego se reflejan las tareas de limpieza de las variables textuales, posteriormente se realiza una exploración de los resultados obtenidos, lo cuales son visualizados a través una Shini APP.
 
-# Seleccón
+# Selección
 
 Los datos utilizados se descargaron desde la API de Twitter mediante el paquete de R rtweet. La información provista por esta aplicación abarca retweets, favoritos, texto de la publicación, idioma, fecha, entre otras. En el marco de esta presentación, se puso el foco en la variable Texto y se consideraron los posteos realizados desde el 18 al 24 de diciembre de 2022 en idioma español, con el hashtag #Qatar2022, sin incluir retweets. Se revisaron mails con etiqueta de “posiblemente sensibles” y fueron conservados dado que no se observó lenguaje ofensivo. Esta categorización se suele aplicar a tweets que contienen enlaces.
 

@@ -52,7 +52,7 @@ luego se reflejan las tareas de limpieza de las variables textuales,
 posteriormente se realiza una exploración de los resultados obtenidos,
 lo cuales son visualizados a través una Shini APP.
 
-# Seleccón
+# Selección
 
 Los datos utilizados se descargaron desde la API de Twitter mediante el
 paquete de R rtweet. La información provista por esta aplicación abarca
